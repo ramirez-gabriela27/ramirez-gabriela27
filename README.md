@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gabriela and I am a recent graduate from the University of Coloardo, Boulder 💛🖤 where I completed my Bachelor of Science in Computer Science in May 2022.
+I'm Gabriela and I am a recent graduate from the University of Colorado, Boulder 💛🖤 where I completed my Bachelor of Science in Computer Science in May 2022.
 
 I am now a Software Engineer at GitHub 🐱‍💻 If you'd like to reach me you can find me on [LinkedIn](https://www.linkedin.com/in/gabriela-tolosa-ramirez/) 
 Happy coding! 👩🏽‍💻🙌
