@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gabriela and I am a Software Engineer at GitHub! If you'd like to reach me you can find me on [LinkedIn](https://www.linkedin.com/in/gabriela-tolosa-ramirez/) 
+I'm Gabriela and I am a Software Engineer at GitHub! If you'd like to reach me you can find me on [LinkedIn](https://www.linkedin.com/in/gabriela-tolosa-ramirez/)
+
 Happy coding! 👩🏽‍💻🙌
